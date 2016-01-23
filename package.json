@@ -1,0 +1,15 @@
+{
+  "name": "callback-sample-node",
+  "version": "1.0.0",
+  "description": "Example application for consumption of Path HTTP callback",
+  "main": "app.js",
+  "dependencies": {
+    "aws-snsclient": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Path Evolution, LLC",
+  "license": "ISC"
+}
